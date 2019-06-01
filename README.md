@@ -2,7 +2,7 @@
 
 This is an app to generate multiply table files.
 
-Exec:
+Install:
 ```
 npm install
 ```
